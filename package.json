@@ -1,0 +1,20 @@
+{
+  "name": "arkbuildhelper",
+  "version": "1.0.0",
+  "description": "an app designed to help you figure out the neccessary resources for building projects in the video game Ark: Survival Evolved",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Andrew Glenn",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angular-route": "^1.5.7",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "path": "^0.12.7",
+    "pg": "^6.0.1"
+  }
+}
